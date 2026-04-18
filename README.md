@@ -1,9 +1,9 @@
-# Resume Pipeline
+# Resume Job Matching Pipeline
 
 ## Summary 
 This is end-to-end data project, I started because I didn't want to keep apply for jobs that didn't match my resume. This projects aims to simplify the heavy lifting for me and evaluate what job match the skills on my resume and then determine whats jobs, I should apply to.
 
-Using `web scrapping`, Huggingfave `AI model`, ranking system and `MYSQL`, while also building a `pipeline` to run and determine which jobs I should apply to. 
+Using `web scrapping` , an  `AI model`, ranking system, `SQLAlchemy` and `MYSQL`, while also building a `pipeline` to run and determine which jobs I should apply to. 
 
 
 ## Project Strucuture
@@ -27,6 +27,7 @@ job-resume-pipeline/
 
 ### Agenda
 - [x] Create a python script 
+	- [x]  Test the API with the script
 - [x] Create a MYSQL database
 	- [ ] Test python and database connection (In Progress)
 - [ ] Use a HuggingFace AI Model
